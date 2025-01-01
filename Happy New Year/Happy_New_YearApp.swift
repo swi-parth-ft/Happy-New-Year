@@ -11,7 +11,7 @@ import SwiftUI
 struct Happy_New_YearApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HappyNewYearDrawnView()
         }
     }
 }
